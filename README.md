@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the relationship between financial news sentiment and stock price movements. It combines exploratory data analysis, technical stock analysis, and sentiment-based correlation to assess whether news sentiment has a measurable impact on market behavior.
+This project analyzes the relationship between financial news sentiment and stock price movements for the Nova Financial Solutions. It combines exploratory data analysis, technical stock analysis, and sentiment-based correlation to assess whether news sentiment has a measurable impact on market behavior.
 
 The work was completed as part of the 10 Academy – Artificial Intelligence Mastery Program.
 
